@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="us-en">
+<!-- ############################################################################################################################### -->
+<head><title>HOMEPAGE</title></head>
+
+<body>
+<h1>TESTANDO 
+    <sup>1</sup>
+    <sub>2</sub>
+</h1>
+<hr />
+<!-- ############################################################################################################################### -->
+<ul>
+    <l1><a href=#1>Mais um teste.</li>
+    <l1><a href=#2>Que tal outro?</li>
+    <l1><a href=#3>Ou será que não?</li>
+</ul>
+
+
+<h2 id="1">Vamos tentar algo diferente, sim? </h2>
+
+<blockquote cite="https://en.wikipedia.org/wiki/Rave#Dancing">
+<p>A common feature shared by all these dances, along with being originated at clubs, raves and music festivals around the world and in different years, is that when YouTube and other social media started to become popular <mark><small>(around 2006)</small></mark>, these dances began to be popularised by videos of raves performing them, recording and uploading their videos. Therefore, they began to be practised outside their places of origin, creating different scenes in several countries. Furthermore, some of these dances began to evolve, and these dance scenes are not totally related to the club/rave scenes they were originated anymore. Also, the way of teaching and learning them have changed. In the past, if someone wanted to learn one of these dances, the person had to go to a club/rave, watch people dancing and try to copy them. On internet and social media society, these dances are mostly taught on video tutorials and the culture spreads and grows inside those social media, such as melbshuffle.com, glowsticking.com and dasklub.com foruns, Flogger on Fotolog, Rebolation, Sensualize and Free Step on Orkut and Cutting Shapes on Instagram, and many more new to come.</p>
+</blockquote>
+
+<ol>
+    <strong>
+    <li>Melbourne Shuffle</l1>
+    <li>Jumpstyle</l1>
+    <li>Dansé Electro</l1>
+    <li>Hakken</l1>
+    </strong>
+</ol>
+</h2>   
+</body>
